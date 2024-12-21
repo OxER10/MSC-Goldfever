@@ -13,7 +13,6 @@ Ideas:
 - Skeleton in the grave with the treasure
 
 Done features:
-- 
 - Nothing yet
 
 Project next plans:
