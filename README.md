@@ -1,6 +1,7 @@
 # The Goldfever
 My Summer Car mod named The Goldfever
 This mod is inspired by Kummeli Kultakuume movie. In memory of Heikki Silvennoinen
+
 Treasure hunt with reward
 Planned features:
 - 4 Hint pages that lead to another page and the last one leads to a map
